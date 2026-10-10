@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
+@theme {
+  --font-poppins: "Poppins", sans-serif;
+}
+
+.banner-img {
+  width: 550px;
+  height: 350px;
+}
+
+.features > div {
+  display: flex;
+  flex-direction: row;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+}
+
+.home-btn {
+  border: 1px soli black;
+}
+
+.home-container {
+  background-color: #f5efe0;
+}
